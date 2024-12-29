@@ -102,7 +102,7 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/rewas72/employee-management-v2.git
+   git clone https://github.com/ezgisasi/employee-management-v2.git
    ```
 
 2. Proje dizinine gidin:
