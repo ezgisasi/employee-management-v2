@@ -52,10 +52,10 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
       </td>
     </tr>
     <tr>
-      <td>Revas Akın</td>
+      <td>Ezgi Şaşı</td>
       <td>
-        <a href="https://github.com/rewas72" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/revas-ak%C4%B1n-50187227a/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/ezgisasi" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/ezgi-%C5%9Fa%C5%9F%C4%B1-aa66212b2/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
   
