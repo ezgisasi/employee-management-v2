@@ -143,9 +143,3 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
 | delay         | int         |  Gecikmeler              |
 
 ---
-
-
-## Lisans
-Bu proje, GNU General Public License (GPL) ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasını inceleyin.
-
----
