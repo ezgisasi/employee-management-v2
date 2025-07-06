@@ -50,7 +50,9 @@ Bu Proje Yönetim Yazılımı, kullanıcıların projeler oluşturmasını, çal
         <a href="https://github.com/rewas72" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/revas-ak%C4%B1n-50187227a/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
       </td>
-     <td>Revas Akın</td>
+    </tr>
+    <tr>
+      <td>Revas Akın</td>
       <td>
         <a href="https://github.com/rewas72" target="_blank"><img src="images/logo/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/revas-ak%C4%B1n-50187227a/" target="_blank" ><img src="images/logo/linkedin.png" width="20" height="20" /></a>
